@@ -9,7 +9,7 @@ client = OpenAI(base_url="http://localhost:11434/v1", api_key="ollama")
 prompt = """Classify the sentiment of this review as Positive, Negative, or Neutral.
 Reply with one word only.
 
-Review: "The camera quality is great but the battery drains too fast." """
+Review: "I recently purchased this Sony product and overall my experience has been really impressive. The build quality is absolutely excellent and the product feels very premium in hand. The finishing is clean, the material quality feels durable, and you can clearly see that Sony has focused on the small details." """
 
 r = client.chat.completions.create(
     model=MODEL,
