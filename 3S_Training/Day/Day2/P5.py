@@ -1,6 +1,4 @@
-# pip uninstall google-generativeai
-# pip install google-genai
-
+# Gemini API Key usage for prompting
 import os
 from dotenv import load_dotenv
 
@@ -19,7 +17,7 @@ result = client.models.generate_content(
     contents="What is a Vector database?",
     config=types.GenerateContentConfig(
         temperature=0.7,
-        max_output_tokens=150,
+        max_output_tokens=500,
         system_instruction="You are a concise AI tutor. Answer in 2-3 sentences."
     )
 )
