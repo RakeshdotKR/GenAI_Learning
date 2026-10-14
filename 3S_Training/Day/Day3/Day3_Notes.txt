@@ -2,5 +2,5 @@ Point 1: Ensure virtual env is activated (terminal of vs code)
 
 Start to execute the code:
 
-Working on Prompt Templates
+Topic: Working on Prompt Templates
 Example: P1.py : Save this file and execute
