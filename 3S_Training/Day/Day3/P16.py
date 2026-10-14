@@ -1,4 +1,4 @@
-"""P6.py — ChatMessageHistory with LCEL — keeps full history
+"""P16.py — ChatMessageHistory with LCEL — keeps full history
 
 SUMMARY:
 Demonstrates session-based chat history using modern LangChain 
