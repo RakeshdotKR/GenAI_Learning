@@ -8,3 +8,5 @@ Start to execute the code:
 Topic: Working on Prompt Templates
 Example: P1.py : Save this file and execute
 
+Topic: System Prompt vs User Prompt: Refusing Unrelated Questions
+Example: P2.py : Save this file and execute
