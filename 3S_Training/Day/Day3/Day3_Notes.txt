@@ -30,3 +30,5 @@ Topic: P8.py — Multi-Turn Conversations: Building Chat History Manually
 Topic: P9.py — Mini-Challenge: Customer Support Bot Template
 
 Topic: P10.py — Prompting for JSON Output with Ollama
+
+Topic: P11.py — LangChain Output Parser: String Output
