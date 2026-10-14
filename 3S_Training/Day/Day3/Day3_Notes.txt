@@ -1,6 +1,10 @@
 Point 1: Ensure virtual env is activated (terminal of vs code)
 
+Install dependencies exactly inside the virtual environment
+d:\Your_Repository_Folder\.venv\Scripts\python.exe -m pip install package-name
+
 Start to execute the code:
 
 Topic: Working on Prompt Templates
 Example: P1.py : Save this file and execute
+
