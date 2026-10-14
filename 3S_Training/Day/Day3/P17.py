@@ -7,7 +7,7 @@ PREREQUISITES:
 - Install: pip install streamlit. Run with streamlit run P17.py.
 
 To Run:
-".\.venv\Scripts\streamlit.exe" run "d:\Training\PESCE_Mandya\GenAI_Learning\3S_Training\me\Day3_\P10.py"
+".\.venv\Scripts\streamlit.exe" run "d:\Training\PESCE_Mandya\GenAI_Learning\3S_Training\me\Day3_\P17.py"
 """
 
 
