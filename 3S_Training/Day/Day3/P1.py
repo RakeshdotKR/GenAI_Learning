@@ -34,7 +34,7 @@ MODEL = "phi3:mini"
 # This is an alternative model selection.
 # Remove the comment symbol (#) to use this model instead.
 # Make sure the model has been downloaded into Ollama first.
-# MODEL = "gemma2:2b"
+# MODEL = "gemma2:2b"``
 
 # Create an API client that communicates with the local Ollama server.
 # base_url specifies the address of Ollama's OpenAI-compatible API.
