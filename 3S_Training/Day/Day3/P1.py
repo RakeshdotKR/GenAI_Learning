@@ -86,7 +86,8 @@ r = client.chat.completions.create(
             "role": "user",
 
             # This is the customer's battery-related question.
-            "content": "My battery drains in 3 hours. What should I do?"
+            # "content": "I want to watch a movie. What should I do?"
+            # "content": "My battery drains in 3 hours. What should I do?"
         },
     ],
 
