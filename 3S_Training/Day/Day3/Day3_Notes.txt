@@ -10,3 +10,6 @@ Example: P1.py : Save this file and execute
 
 Topic: System Prompt vs User Prompt: Refusing Unrelated Questions
 Example: P2.py : Save this file and execute
+
+Topic: Prompt Templates with f-strings
+Example: P3.py : Save this file and execute
