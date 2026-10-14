@@ -22,3 +22,5 @@ Example: P4.py: Save this file and execute
 Topic: P5.py — LangChain ChatPromptTemplate
 
 Topic: P6.py — LangChain ChatPromptTemplate with Ollama
+
+Topic: P7.py - LangChain ChatPromptTemplate with Gemini
