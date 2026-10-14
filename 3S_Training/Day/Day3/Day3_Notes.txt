@@ -34,3 +34,7 @@ Topic: P10.py — Prompting for JSON Output with Ollama
 Topic: P11.py — LangChain Output Parser: String Output
 
 Topic: P12.py — LangChain Output Parser: JSON Output
+
+Topic: P13.py — Pydantic for Structured Output Validation
+
+Topic: P14.py — Putting It Together: Template → LLM → Parser Pipeline
