@@ -32,3 +32,5 @@ Topic: P9.py — Mini-Challenge: Customer Support Bot Template
 Topic: P10.py — Prompting for JSON Output with Ollama
 
 Topic: P11.py — LangChain Output Parser: String Output
+
+Topic: P12.py — LangChain Output Parser: JSON Output
