@@ -24,3 +24,5 @@ Topic: P5.py — LangChain ChatPromptTemplate
 Topic: P6.py — LangChain ChatPromptTemplate with Ollama
 
 Topic: P7.py - LangChain ChatPromptTemplate with Gemini
+
+Topic: P8.py — Multi-Turn Conversations: Building Chat History Manually
