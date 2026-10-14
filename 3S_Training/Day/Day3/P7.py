@@ -26,7 +26,7 @@ load_dotenv()
 
 # Create the Gemini model wrapper and set response variability.
 # The Google API key is normally read from GEMINI_API_KEY in the environment.
-llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash", temperature=0.3)
+llm = ChatGoogleGenerativeAI(model="gemini-3.8-flash", temperature=0.3)
 
 # Define a system instruction and a human message with placeholders.
 template = ChatPromptTemplate.from_messages([
