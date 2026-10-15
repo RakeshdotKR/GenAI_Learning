@@ -6,8 +6,7 @@ checks whether a second turn can recall details from the first.
 
 PREREQUISITES:
 - Install: pip install langchain langchain-google-genai python-dotenv. 
-Put GEMINI_API_KEY in .env. Classic ConversationChain and memory APIs may be 
-deprecated in newer LangChain releases.
+Put GEMINI_API_KEY in .env. 
 """
 
 
