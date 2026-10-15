@@ -33,3 +33,11 @@ Topic: P2.py — Chat Components — st.chat_message + st.chat_input
 Topic: P3.py — Mini-Challenge — Styled Input/Output Page
 
 Topic: P4.py — Link Gemini + LangChain
+
+Topic: P5.py — Basic Streamlit Chat App
+
+Topic: P6.py — Add System Prompt via Sidebar
+
+Topic: P7.py — Add Role-Based Chat Formatting + Clear Button
+
+Topic: P8.py — Ollama Alternative — Offline Chatbot
