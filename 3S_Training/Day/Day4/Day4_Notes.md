@@ -23,3 +23,11 @@ Install dependencies exactly inside the virtual environment:
 "d:\Your_Repository_Folder\.venv\Scripts\python.exe" -m pip install package-name*
 
 =======================================================================================
+
+
+##Day 4 Notes:
+Topic: P1.py — Session State — Persisting Data Across Reruns
+
+Topic: P2.py — Chat Components — st.chat_message + st.chat_input
+
+Topic: P3.py — Mini-Challenge — Styled Input/Output Page
