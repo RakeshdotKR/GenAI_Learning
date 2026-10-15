@@ -31,3 +31,5 @@ Topic: P1.py — Session State — Persisting Data Across Reruns
 Topic: P2.py — Chat Components — st.chat_message + st.chat_input
 
 Topic: P3.py — Mini-Challenge — Styled Input/Output Page
+
+Topic: P4.py — Link Gemini + LangChain
