@@ -26,6 +26,9 @@ Install dependencies exactly inside the virtual environment:
 
 
 ##Day 4 Notes:
+====================================================================
+Streamlit usage
+====================================================================
 Topic: P1.py — Session State — Persisting Data Across Reruns
 
 Topic: P2.py — Chat Components — st.chat_message + st.chat_input
@@ -41,3 +44,16 @@ Topic: P6.py — Add System Prompt via Sidebar
 Topic: P7.py — Add Role-Based Chat Formatting + Clear Button
 
 Topic: P8.py — Ollama Alternative — Offline Chatbot
+
+===============================================================
+RAG: Basics
+===============================================================
+P9.py — Generating Embeddings with Gemini
+
+P10.py - generates embedding vectors for text using an embedding model
+
+P11.py — Ollama based embedding
+
+P12.py — Cosine Similarity — Measuring Meaning Distance
+
+P13.py — ChromaDB In-Memory CRUD: Add, Query, Update, Delete
