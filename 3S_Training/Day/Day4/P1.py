@@ -4,7 +4,7 @@ SUMMARY:
 Builds a counter app using Streamlit session state so the count survives the script reruns caused by button interactions.
 
 PREREQUISITES:
-- Install: pip install streamlit. Run with streamlit run P11.py.
+- Install: pip install streamlit. Run with streamlit run P1.py.
 """
 
 
