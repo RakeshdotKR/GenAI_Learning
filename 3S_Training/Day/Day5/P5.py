@@ -75,4 +75,4 @@ try:
         avg = sum(len(c) for c in chunks_c) // len(chunks_c) if chunks_c else 0
         print(f"  chunk_size={size:>4}, overlap={overlap:>3} → {len(chunks_c):>3} chunks, avg {avg} chars")
 except FileNotFoundError:
-    print("  sample.txt not found — run P18.py first to create it.")
+    print("  sample.txt not found")
