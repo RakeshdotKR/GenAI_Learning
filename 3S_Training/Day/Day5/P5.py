@@ -9,7 +9,7 @@ Section C: compare chunk counts and average sizes across different settings.
 
 PREREQUISITES:
 - pip install langchain-text-splitters langchain-core
-- sample.txt must exist (created by P18.py)
+
 """
 
 from langchain_text_splitters import RecursiveCharacterTextSplitter
