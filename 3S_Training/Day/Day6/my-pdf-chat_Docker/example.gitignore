@@ -1,0 +1,18 @@
+# Never commit secrets or credentials
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# ChromaDB on-disk data (not used in the deployed app, but just in case)
+rag_db/
+
+# OS files
+.DS_Store
+Thumbs.db
